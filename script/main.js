@@ -1,0 +1,1 @@
+define(function(require,exports,module){var $=require("jquery");var index=require("index");index.navHover();index.flash();index.tab()});
